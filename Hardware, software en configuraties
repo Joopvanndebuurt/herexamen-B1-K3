@@ -1,0 +1,69 @@
+Configuraties
+Voorbeeld – Meedoen in TOPdesk of alleen lezen
+ Klik op TOPdeskmenu-Modules-Middelenbeheer.
+ Klik in de rubriek Overzicht op Configuraties.
+Open het tabblad OBJECTEN.
+Dit tabblad heeft diverse subtabbladen, waaronder HARDWARE en SOFTWARE.
+
+
+
+Objecten koppelen aan een configuratie
+Koppel de SAP-database aan een configuratie 
+Je kunt ook vanuit een persoonskaart kijken welke objecten iemand heeft.
+ Open de persoonskaart van Elles Klein (via Zoeken, Personen, Klein of via TOPdeskmenu,
+Modules, Ondersteunende bestanden, Personen).
+Er zijn 248 objecten gekoppeld aan Ellis.
+
+
+Nieuwe objecten toevoegen - hardware
+Klik op TOPdeskmenu, Modules, Middelenbeheer.
+Klik in de rubriek Nieuw op Hardware.
+ Vul de onderstaande gegevens in.
+o De nieuwe monitor krijgt ObjectID M460.
+o Soort is Monitor PC
+o Merk: Dell
+o Kostenplaats: Financiële administratie
+o Leverancier: Dell
+o Eigendom: Aangeschaft
+o Plaatskoppeling: Configuratie C2003
+o Status: Operationeel
+
+
+
+Objecten wijzigen - hardware
+en de kaart van deze monitor (via Zoeken – Objecten- M424) en klik op Bewerken.
+ Pas de kostenplaats, de configuratie en de status aan en sla de kaart op.
+ Vul de reden voor de wijziging in: kies Samenstellen werkplek.
+
+Objecten - Software
+
+open de kaart van MS Word Microsoft Nederlands.
+ Er zijn 60 licenties beschikbaar en nog 30 over.
+eg een nieuwe softwarekaart toe voor Windows 10.
+o Objectid:S58.
+o Soort: Besturingssysteem
+o Fabrikant: Microsoft
+o Pakket: Windows 10
+o Kostenplaats: Administratie
+Leverancier: Microsoft
+o Eigendom: Aangeschaft
+o Aanschafdatum: vandaag
+o Garantie verloopt: over 10 jaar
+o Afschrijving: 0 maanden
+o Plaatskoppeling: Configuratie
+o Configuratie ID: C2003
+o Sla de kaart op.
+
+
+Het aantal licenties is -1, dus er is 1 licentie te weinig.
+ Maak op het tabblad Licenties een nieuwe licentie L58 voor deze software
+Licentiecode: L58
+o Soort: end user
+o Kostenplaats: Administratie
+o Leverancier: Microsoft
+o Aanschaf: vandaag
+o Aantal: 1
+
+
+
+
