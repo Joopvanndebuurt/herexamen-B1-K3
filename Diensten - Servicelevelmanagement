@@ -1,0 +1,63 @@
+Bestaand contract bekijken en verlengen
+Kies TOPdeskmenu, Modules, Contractbeheer en SLM.
+Je krijgt dan het volgende diagram te zien. Je kunt hier zien dat het zowel om interne contracten
+binnen de eigen organisatie, als om contracten met externen als leveranciers gaat.
+Klik in de Rubriek Overzicht op Lopende Dienstcontracten.
+Er is op dit moment geen enkel Lopend Contract meer.
+ Sluit dit tabblad.
+ Klik in de rubriek Overzicht op Verlopen Dienstcontracten en open vervolgens contract
+OGD-0024.
+Dit contract is geldig voor OGD Delft. De einddatum is 9 mei 2019, dit contract is dus verlopen.
+Open het tabblad Diensten. Dit contract bevat drie verschillende diensten, waaronder de dienst
+Databasebeheer. Alle drie de diensten hebben het dienstenniveau 1-General.
+Er zijn vijf meldingen die onder dit contract vallen
+Open de melding van Victor Kooler I 1704 003.
+In de rubriek Planning is een groen symbool te zien en bij Dienst is SAP support ingevuld
+Om dit contract in een nieuwe melding te kunnen gebruiken, moet het eerst verlengd worden.
+ Kies op het tabblad Algemeen voor Aanmaken, Contract verlengen.
+Kies als Einddatum een datum die in de toekomst ligt en klik op Ja.
+Het contract moet vervolgens bekrachtigd worden.
+ Kies Contract bekrachtigen.
+ Klik in het volgende venster op Ja.
+Het contract is daarna weer Lopend.
+Controleer dit door bij Lopende Dienstcontracten te kijken.
+Na verversen moet het contract erbij staan.
+
+
+Het maken van een nieuw contract
+Kies TOPdeskmenu, Modules, Contractbeheer en SLM.
+ Klik in de rubriek Overzicht op Dienstenniveaus.
+Open Dienstenniveau Goud.
+Dit dienstenniveau is al aan twee diensten gekoppeld.
+Open ook Dienstenniveau Zilver.
+Merk op dat dit een lagere standaardprioriteit (P5, doorlooptijd 4 uur) geeft dan Goud (P3,
+doorlooptijd 1 uurOpen ook Dienstenniveau Zilver.
+Merk op dat dit een lagere standaardprioriteit (P5, doorlooptijd 4 uur) geeft dan Goud (P3,
+doorlooptijd 1 uur
+Het dienstenniveau Zilver is bruikbaar voor het nieuwe contract.
+ Kies TOPdeskmenu, Modules, Contractbeheer en SLM.
+ Klik in de rubriek Overzicht op Diensten.
+ Open de dienst Printen.
+De dienst Printen bestaat al. De dienst is beschikbaar als SLA-dienst bij meldingen. Aangezien de
+dienst al in gebruik is, wordt aangeraden hem niet te wijzigen. De dienst is in dit voorbeeld
+ongewijzigd bruikbaar voor TOPdesk Amsterdam
+Het is dus gelijk mogelijk om een nieuw contractontwerp te maken.
+ Kies TOPdeskmenu, Nieuw, Contractbeheer en SLM,
+ Kies in de rubriek Nieuw voor Contractontwerp.
+o Contractnummer is SLA TOPdesk Amsterdam.
+o Korte omschrijving is Printen TOPdesk Amsterdam.
+o Van toepassing op Vestiging en dochters TOPdesk Amsterdam.
+o Aanvangsdatum is vandaag.
+o Einddatum is over een jaar.
+o Behandelaar is Paul Middelkoop.
+Sla het ontwerp op.
+Er is een tabblad Diensten bijgekomen.
+ Koppel met Diensten Koppelen op dit tabblad de dienst Printen.
+Dit contract kan nog niet bekrachtigd worden, want er is nog geen dienstenniveau aan gekoppeld. Als
+je het toch probeert, verschijnt de volgende foutmelding.
+Kies bij Overeenkomsten inrichten.
+ Kies Zilver.
+Het contract kan nu bekrachtigd worden
+
+
+
