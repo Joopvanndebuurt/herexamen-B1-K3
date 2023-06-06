@@ -1,0 +1,98 @@
+Nieuwe vestiging en nieuwe ruimte.
+
+Klik op de puntjes achter vestiging om een kaart te openen.
+De naam van de nieuwe vestiging wordt TOPdesk Maastricht. De overige velden zijn niet verplicht.
+ Vul de naam in en sla de kaart op.
+
+ Ga terug naar het tabblad persoon. De nieuwe vestiging kan nu gelijk gekozen worden.
+
+
+Prioriteitenmatrix
+Je kunt in TOPdesk de prioriteitsmatrix aanpassen. Ieder bedrijf bepaalt namelijk zelf hoe men
+prioriteiten toewijst.
+Impact en urgentie bepalen samen de prioriteit van een melding. P1 is hier de hoogste prioriteit, P7
+de laagste. Meldingen met de hoogste prioriteit moeten het eerst afgehandeld worden.
+Deze TOPdesk-demoversie heeft vijf mogelijkheden voor de impact: Individu, Afdeling/Team,
+Vestiging, Klant, Alle klanten. Er zijn drie mogelijkheden voor urgentie: Kan niet werken, Kan deels
+werken en Kan werken
+
+Kies TOPdeskmenu, Instellingen.
+ Kies in de Module-instellingen, Meldingenbeheer, Prioriteitenmatrix.
+De bovenstaande matrix komt dan in beeld.
+ Kies in Opzoeklijsten, Impact. Er komt een waarschuwing dat het veranderen van deze
+opzoeklijst effect heeft op dienstenniveaus en alle dienstencontracten.
+
+Klik op Toch wijzigen.
+ Voeg een Impact Organisatie toe.
+ Sla de wijziging op.
+
+Via de knop Meer is het filter aan te passen.
+ Laat alle kaarten weergeven, dus niet alleen de actieve waarden
+
+Dan blijkt dat Organisatie al bestaat, maar gearchiveerd is. Via Meer is het te dearchiveren.
+Met het prullenbaksymbool zijn de gegevens te verwijderen. Het verwijderen is pas definitief als de
+wijzigingen opgeslagen zijn. Verwijderen lukt alleen als er deze entry nergens gebruikt is. Archiveren
+kan wel.
+Op vergelijkbare wijze zijn Urgentie en Prioriteit aan te passen. In feite kun je alle opzoeklijsten op
+deze manier aanpassen. Iedere module heeft eigen opzoeklijsten. Dit kan verwarrend zijn. De
+prioriteiten bij de module Probleembeheer zijn anders dan de prioriteiten van Meldingenbeheer. 
+
+
+Verplichte velden
+
+Vink via het TOPdeskmenu Instellingen, Module-instellingen, Meldingenbeheer,
+Eerstelijnsmeldingen aan dat de velden Impact en Urgentie getoond worden bij het invoeren
+van een eerstelijnsmelding.
+ Maak deze velden verplicht.
+ Sla deze wijzigingen op
+
+
+
+Maak een nieuwe eerstelijnsmelding.
+ Test dat door invoeren van Impact en Urgentie, de Prioriteit direct ingevuld wordt.
+
+
+
+Het beheren van leveranciers en het toevoegen van merken en soorten
+Kies TOPdeskmenu, Modules, Ondersteunende bestanden, Leveranciers.
+ Klik rechtsboven op de knop Nieuwe leverancier.
+ Vul de naam Computershop Delft in.
+Deze leverancier kan gebruikt worden bij eerste- en tweedelijnsmeldingen.
+
+
+
+Deze leverancier is nu te kiezen in een eerste- en tweedelijnsmelding in de rubriek Afhandeling.
+
+Categorie en Subcategorie toevoegen
+Bij meldingen is een beperkt aantal categorieën en subcategorieën te kiezen.
+
+
+Deze opzoeklijsten zijn zo algemeen voor alle modules, dat ze niet bij de module Instellingen staan,
+maar bij de Functionele instellingen
+
+
+Bij Werkplek Hardware moet de categorie Tablet toegevoegd worden.
+ Klik op Nieuwe Categorisatie.
+o Naam is Tablet, Subcategorie van Werkplek Hardware.
+ Kies Opslaan.
+Controleer dat deze subcategorie gebruikt kan worden in alle modules
+
+
+
+Merken of soorten toevoegen
+De merken en soorten van middelen zijn te vinden bij de opzoeklijsten van de module
+Middelenbeheer.
+(De module Artikelenbeheer is bedoeld voor de afdeling Inkoop.)
+Op termijn zal de module Middelenbeheer vervangen worden door de nieuwe module
+Assetmanagement.
+Het aanpassen van de lijsten merken en soorten is vergelijkbaar met het aanpassen van prioriteiten
+zoals hierboven beschreven.
+ Merk geldt voor alle middelen.
+ Soorten zijn apart te kiezen bij Hardware, Software, telefonie enzovoorts.
+
+
+Objecten toevoegen in bulk
+Kies TOPdeskmenu, Modules, Middelenbeheer.
+ Kies in de rubriek Overzicht Medisch instrumentaria.
+ Selecteer alle AED’s.
+ Klik op Meer, Bulkbewerking.
